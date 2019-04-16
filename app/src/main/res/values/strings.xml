@@ -1,0 +1,27 @@
+<resources>
+        <string name = "app_name"> Objetivos e metas</string>
+        <string name = "empty_space_tasks"> Não tem nenhuma meta encontrada</string>
+        <string name = "title_tasks"> Meta </string>
+        <string name = "new_task_message"> Nova meta adicionada </string>
+        <string name = "new_task_message_error"> Erro ao adicionar meta: </string>
+        <string name = "edit_task_message"> Meta editada com sucesso </string>
+        <string name = "edit_task_message_error"> Erro na meta de edição: </string>
+        <string name = "delete_task_message"> Meta excluída </string>
+        <string name = "delete_task_message_error"> Erro na exclusão da meta: </string>
+        <string name = "done_task_message"> Meta marcada como concluída </string>
+        <string name = "done_task_message_error"> Erro na meta concluída: </string>
+        <string name = "reset_task_message"> Meta redefinida </string>
+        <string name = "reset_task_message_error"> Erro na meta de redefinição: </string>
+        <string name = "task_name_placeholder"> Nome da meta aqui </string>
+        <string name = "datatarefa"> Data meta</string>
+        <string name = "button_add"> Adicionar </string>
+        <string name = "button_save"> Salvar </string>
+        <string name = "button_cancel"> Cancelar </string>
+        <string name = "menu_edit"> Editar </string>
+        <string name = "menu_delete"> Excluir </string>
+        <string name = "menu_done"> Marcar como concluído </string>
+        <string name = "menu_reset"> Redefinir </string>
+        <string name = "title_edit_task_dialog"> Editar meta </string>
+        <string name = "title_delete_task_dialog"> Excluindo meta </string>
+        <string name = "message_delete_task_dialog"> Deseja excluir esta meta? </string>
+</resources>
